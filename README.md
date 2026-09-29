@@ -69,19 +69,4 @@ const agrim = {
 
 </div>
 
-## Stats
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=KumarAgrim&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-</td>
-<td>
-<img height="165" src="https://streak-stats.demolab.com/?user=KumarAgrim&theme=default&hide_border=true" />
-</td>
-</tr>
-</table>
-
-</div>
